@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>car-icon.ico</file>
+        <file>background.png</file>
+        <file>wheel.png</file>
+    </qresource>
+</RCC>
